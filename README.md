@@ -4,4 +4,5 @@ cub200_detection.py -> main script where model and dataloader are created and tr
 
 pngs show some training metrics as well as true and predicted bounding boxes
 
-<img width="500" height="500" alt="example_bbox" src="https://github.com/user-attachments/assets/5b8c6c49-705b-4f76-ab1c-54c5a98287ed" />
+
+<img width="500" height="500" alt="predicted_bbox" src="https://github.com/user-attachments/assets/2f9bd5d4-c849-4c13-9027-8ae930bb079a" />
